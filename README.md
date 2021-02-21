@@ -1,1 +1,3 @@
-# [DIO] Register
+# [DIO] 
+
+Aplicação para Cadastro de séries.
